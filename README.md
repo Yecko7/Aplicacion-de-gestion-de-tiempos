@@ -5,4 +5,4 @@ Como todo proyecto se requiere un analisis, una planeacion, una ejecucion y al f
 - sdsd
 - sdsd
 - sdsd
-https://img.shields.io/badge/logo-javascript-blue?logo=javascript
+  ![javaScript].(https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
