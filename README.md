@@ -5,7 +5,7 @@ Como todo proyecto se requiere un analisis, una planeacion, una ejecucion y al f
 - Problema identificado: No hay control de registros de tiempos muertos y tiempos de produccion.
 - Solucion: Implementacion de una aplicacion que registre los tiempos muertos y tiempos de valor agregado.
 - Arquitectura: Entorno de desarrollo amigable y facil manejo, USUARIO, ACTIVIDAD, TIEMPO y REGISTRO
-## REQUERIMIENTOS
+## REQUERIMIENTOS, INSTALACION Y CONFIGURACION
 ### Requisitos de Hardware
 - Servidor (si es instalación on-premise o local)  
 -	Mínimo 2 núcleos (recomendado 4+ para alta carga de usuarios).  
@@ -122,7 +122,7 @@ Como todo proyecto se requiere un analisis, una planeacion, una ejecucion y al f
 
   print("¡Ambiente listo!")  
   
-# USO
+# USO Y CONTRIBUCION
 ### **1. Referencia Usuario**  
 Los usuarios suelen ser empleados, colaboradores o estudiantes que necesitan registrar el tiempo dedicado a tareas, proyectos o actividades.  
 
